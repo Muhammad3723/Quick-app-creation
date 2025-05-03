@@ -1,0 +1,12 @@
+C:\Users\AA LAPTOP\Downloads\QuickApp-master\QuickApp-master\QuickApp.Core\bin\Debug\net9.0\QuickApp.Core.deps.json
+C:\Users\AA LAPTOP\Downloads\QuickApp-master\QuickApp-master\QuickApp.Core\bin\Debug\net9.0\QuickApp.Core.dll
+C:\Users\AA LAPTOP\Downloads\QuickApp-master\QuickApp-master\QuickApp.Core\bin\Debug\net9.0\QuickApp.Core.pdb
+C:\Users\AA LAPTOP\Downloads\QuickApp-master\QuickApp-master\QuickApp.Core\obj\Debug\net9.0\QuickApp.Core.csproj.AssemblyReference.cache
+C:\Users\AA LAPTOP\Downloads\QuickApp-master\QuickApp-master\QuickApp.Core\obj\Debug\net9.0\QuickApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AA LAPTOP\Downloads\QuickApp-master\QuickApp-master\QuickApp.Core\obj\Debug\net9.0\QuickApp.Core.AssemblyInfoInputs.cache
+C:\Users\AA LAPTOP\Downloads\QuickApp-master\QuickApp-master\QuickApp.Core\obj\Debug\net9.0\QuickApp.Core.AssemblyInfo.cs
+C:\Users\AA LAPTOP\Downloads\QuickApp-master\QuickApp-master\QuickApp.Core\obj\Debug\net9.0\QuickApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\AA LAPTOP\Downloads\QuickApp-master\QuickApp-master\QuickApp.Core\obj\Debug\net9.0\QuickApp.Core.dll
+C:\Users\AA LAPTOP\Downloads\QuickApp-master\QuickApp-master\QuickApp.Core\obj\Debug\net9.0\refint\QuickApp.Core.dll
+C:\Users\AA LAPTOP\Downloads\QuickApp-master\QuickApp-master\QuickApp.Core\obj\Debug\net9.0\QuickApp.Core.pdb
+C:\Users\AA LAPTOP\Downloads\QuickApp-master\QuickApp-master\QuickApp.Core\obj\Debug\net9.0\ref\QuickApp.Core.dll
